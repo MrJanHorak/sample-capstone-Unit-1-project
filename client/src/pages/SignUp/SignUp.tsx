@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import type { ChangeEvent, FormEvent } from 'react';
 import ErrorMessage from '../../components/ErrorMessage/ErrorMessage';
-import './SignupPage.css';
+import './Signup.css';
 
 // this hook allows us to navigate programatically
 import { useNavigate } from 'react-router-dom';

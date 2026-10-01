@@ -1,6 +1,6 @@
 import { useState } from "react";
 import type { ChangeEvent, FormEvent } from "react";
-import "./LoginPage.css";
+import "./Login.css";
 import ErrorMessage from "../../components/ErrorMessage/ErrorMessage";
 
 import { Link, useNavigate } from "react-router-dom";
